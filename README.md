@@ -1,6 +1,6 @@
-# Olá, sou João Filho 👋
+# João Filho - Software Developer
 
-Embora eu esteja no início da minha jornada na programação, já reconheço que as pessoas são a força motriz do desenvolvimento. Estou empolgado para aprender e crescer, pois acredito que, juntos, podemos construir um mundo digital incrível.
+Olá! Sou um desenvolvedor full-stack com expertise na criação de soluções abrangentes, tanto no frontend quanto no backend, visando uma experiência completa e eficiente para o usuário.
 ---
 ## Mais sobre mim
 
