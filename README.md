@@ -1,35 +1,9 @@
-# João Filho - Software Developer
+# Olá, meu nome é João Filho 
+## Software Developer
+💬 Estudo  desenvolvimento há mais de 2 anos, conheço front-end e back-end, adoro ambos, é realmente incrível construir uma aplicação completa do zero.
 
-Olá! Sou um desenvolvedor full-stack com expertise na criação de soluções abrangentes, tanto no frontend quanto no backend, visando uma experiência completa e eficiente para o usuário.
----
-## Mais sobre mim
-
-```Java
-public class Developer {
-
-    public String name = "João Filho Lima da Silva";
-    public String acknowledgement = "Desenvolvedor Software Fullstack";
-
-    public List<String> primarySkillset = new ArrayList<>();
-    public List<String> languages = new ArrayList<>();
-
-    public Developer() {
-        primarySkillset.add("Programação");
-        primarySkillset.add("Trabalho em Equipe");
-        primarySkillset.add("Comunicação");
-        primarySkillset.add("Resolução de Problemas");
-        primarySkillset.add("Controle de Versão");
-        primarySkillset.add("Desenvolvimento Web");
-        primarySkillset.add("Aprendizado Contínuo");
-
-        languages.add("Java");
-        languages.add("JavaScript");
-        languages.add("React");
-    }
-
-   // Estou ansioso para enriquecer os arrays `languages` e `primarySkillset` com ainda mais conhecimento e habilidades.
-}
-```
+* :earth_americas: Moro no Ceará, Brasil
+* :email: Você pode entrar em contato comigo em joaofilhomil@gmail.com
 ---
 ## Linguagens e ferramentas
 
