@@ -1,6 +1,6 @@
 # Olá, meu nome é João Filho 
 ## Software Developer
-💬 Estudo  desenvolvimento há mais de 2 anos, conheço front-end e back-end, adoro ambos, é realmente incrível construir uma aplicação completa do zero.
+💬 Estudo  desenvolvimento há mais de 3 anos, conheço front-end e back-end, adoro ambos, é realmente incrível construir uma aplicação completa do zero.
 
 * :earth_americas: Moro no Ceará, Brasil
 * :email: Você pode entrar em contato comigo em joaofilhomil@gmail.com
